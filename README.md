@@ -1,7 +1,7 @@
 <h1 align="center">{Adventure Everywhere}</h1>
 
 
-< align="center">
+<div align="center">
   <h3>
     <a href="#">
       Demo
@@ -11,7 +11,7 @@
       Solution
     </a>
   </h3>
-</>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/74683219/102932228-df18ca80-446d-11eb-8061-22b97fc87262.png)
+![screenshot]()
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
